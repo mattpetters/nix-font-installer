@@ -16,10 +16,6 @@ A flexible and easy-to-use script for installing local fonts in Nix environments
    ```
    git clone https://github.com/mattpetters/nix-font-installer.git
    ```
-2. Make the script executable:
-   ```
-   chmod +x nix-font-installer.sh
-   ```
 
 ## Usage
 
